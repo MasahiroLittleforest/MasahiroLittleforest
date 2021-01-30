@@ -13,8 +13,17 @@
 
 ### Zenn
 <!-- zenn start -->
+- Jan 22 - [FlutterでちょこっとGlassmorphism](https://zenn.dev/littleforest/articles/flutter-glassmorphism)
+- Dec 16 - [Flutterでショートカット](https://zenn.dev/littleforest/articles/flutter-quick-actions)
+- Dec 10 - [Flutterで簡単なキーワード検索を実装し、ついでに一致したキーワードをハイライトする](https://zenn.dev/littleforest/articles/search-items-and-highlight-text)
+- Nov 30 - [より英語っぽくコードを書きたい](https://zenn.dev/littleforest/articles/subjects-of-functions)
+- Nov 13 - [notの意味を再確認する -否定の意味を持つ接頭辞の罠-](https://zenn.dev/littleforest/articles/meanings-of-adverb-not-and-prefix-un)
 <!-- zenn end -->
 
 ### Qiita
 <!-- qiita start -->
+- Nov 05 - [[Flutter] キーワードと一致する文字列をハイライトする方法](https://qiita.com/Littleforest/items/25e04feadb0a2faf0851)
+- Oct 18 - [Dartはインデックスに負の数を指定することができない](https://qiita.com/Littleforest/items/060da7a7f341bc504c3d)
+- Oct 17 - [Androidエミュレータでキーボード入力が正常にできなくなった](https://qiita.com/Littleforest/items/3ad607b5a739a154ab91)
+- Sep 24 - [Flutter + Firebaseでモバイルアプリを作った時にColorの保存で困った話](https://qiita.com/Littleforest/items/19ec7c7a108cf46cbe8e)
 <!-- qiita end -->
