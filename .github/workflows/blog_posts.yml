@@ -5,7 +5,7 @@ name: CI
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/2 * * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -41,5 +41,5 @@ jobs:
           end_flag: "<!-- qiita end -->"
       
       # commit changes if something has changed
-      - if: ${{ steps.zenn.outputs.changed == true || steps.qiita.outputs.changed == true }}
+      - if: steps.zenn.outputs.changed == true || steps.qiita.outputs.changed == true
         uses: sarisia/actions-commit@master
