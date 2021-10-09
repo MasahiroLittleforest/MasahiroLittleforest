@@ -13,11 +13,11 @@
 
 ### Zenn
 <!-- zenn start -->
+- Oct 02 - [Google AssistantからFlutterアプリの特定の画面を開いてみる](https://zenn.dev/littleforest/articles/flutter-app-actions)
 - Mar 19 - [外部サイトのOGPを取得する](https://zenn.dev/littleforest/articles/scrape-og-tags)
 - Jan 22 - [FlutterでちょこっとGlassmorphism](https://zenn.dev/littleforest/articles/flutter-glassmorphism)
 - Dec 16 - [Flutterでショートカット](https://zenn.dev/littleforest/articles/flutter-quick-actions)
 - Dec 10 - [Flutterで簡単なキーワード検索を実装し、ついでに一致したキーワードをハイライトする](https://zenn.dev/littleforest/articles/search-items-and-highlight-text)
-- Nov 30 - [より英語っぽくコードを書きたい](https://zenn.dev/littleforest/articles/subjects-of-functions)
 <!-- zenn end -->
 
 ### Qiita
